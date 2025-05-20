@@ -101,14 +101,14 @@ You have to plot population of ASEAN countries as groups over the years 2004 - 2
 # Answers:
 ### 1: India population over years - Bar Plot
 
-Open Population1.py and run the script start1() function will take care of everything.
+Open Population1.py and run the script execute1() function will take care of everything.
 
 ![](./Output/Figure_1.png)
 
 ----------------------
 ### 2: For the year 2014. Bar Chart of population of ASEAN countries
 
-Open Population2.py and run the script start2() function will take care of everything.
+Open Population2.py and run the script execute2() function will take care of everything.
 
 ![](./Output/Figure_2.png)
 
@@ -116,12 +116,13 @@ Open Population2.py and run the script start2() function will take care of every
 
 ### 3: Over the years, TOTAL population of SAARC countries
 
-Open Population3.py and run the script start3() function will take care of everything.
+Open Population3.py and run the script execute3() function will take care of everything.
 ![](./Output/Figure_3.png)
 
 --------------------
 
 ### 4: Grouped Bar Chart - ASEAN population vs. years
 
-# ----------------need to work------------------------
+Open Population3.py and run the script execute4() function will take care of everything.
+![](./Output/Figure_4.png)
 
